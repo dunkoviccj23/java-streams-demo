@@ -107,14 +107,14 @@ public class StreamsDemo {
         printList(timesTwo);
 
         List<Integer> populations = countryList.stream()
-                .map(Country::getPopulation)
+                .map(Country::getPopulation) // create new stream with population (int) values
                 .collect(Collectors.toList());
 
         printList(populations);
 
         List<String> uppercaseCapitals = countryList.stream()
-                .map(Country::getCapital)
-                .map(String::toUpperCase)
+                .map(Country::getCapital) // create new stream with capital city (string) values
+                .map(String::toUpperCase) // create new stream with those strings uppercased
                 .collect(Collectors.toList());
 
         printList(uppercaseCapitals);
@@ -165,13 +165,13 @@ public class StreamsDemo {
 
         // Find maximum area of all countries in Asia where the country and its capital start with the same letter
         // If there are no matching countries, there is no max, so this also produces an Optional
-        double maxArea = countryList.stream()
+        int maxArea = countryList.stream()
                 .filter(country -> country.getContinent().equals("Asia"))
-                .filter(country -> country.getName().charAt(0) == country.getCapital().charAt(0))
-                .mapToDouble(Country::getArea)
-                .max()
-                .orElse(0.0); // returns a real value if present, or else 0 if no result
-        System.out.printf("Largest area in Asia: %.2f %n", maxArea);
+                .filter(country -> country.getName().charAt(0) == country.getCapital().charAt(0)) // double filter!
+                .mapToInt(Country::getArea) // create an IntStream
+                .max() // gives an OptionalInt
+                .orElse(0); // returns a real value if present, or else 0 if no result
+        System.out.printf("Largest area in Asia: %d %n", maxArea);
     }
 
     private void findingMatchingObjects() {
@@ -186,9 +186,9 @@ public class StreamsDemo {
             System.out.printf("%s starts with X %n", startsWithX.get());
         }
 
-        // Find all countries that start with "A"
+        // Find all countries that start with "A", sorted by name
         List<Country> startWithA = countryList.stream()
-                .filter(country -> country.getName().startsWith("A"))
+                .filter(country -> country.getName().startsWith("A")) // predicate
                 .sorted(Comparator.comparing(Country::getName)) // sort "A" countries by name
                 .collect(Collectors.toList());
 

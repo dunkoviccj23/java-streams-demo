@@ -1,0 +1,249 @@
+Country{continent='Europe', name='Holy See (Vatican City)', capital='', population=1000, area=0}
+Country{continent='Europe', name='Monaco', capital='Monaco', population=38964, area=2}
+Country{continent='Europe', name='Gibraltar', capital='Gibraltar', population=33701, area=10}
+Country{continent='Oceania', name='Tokelau', capital='', population=1647, area=12}
+Country{continent='Australia', name='Cocos (Keeling) Islands', capital='West Island', population=596, area=14}
+Country{continent='Oceania', name='Nauru', capital='Yaren', population=12581, area=20}
+Country{continent='Central America', name='Saint Barthelemy', capital='Gustavia', population=7122, area=21}
+Country{continent='Oceania', name='Tuvalu', capital='Funafuti', population=11646, area=30}
+Country{continent='Asia', name='Macao', capital='Concelho de Macau', population=640445, area=30}
+Country{continent='Central America', name='Sint Maarten', capital='Philipsburg', population=40733, area=34}
+Country{continent='Australia', name='Norfolk Island', capital='Kingston', population=1748, area=36}
+Country{continent='Oceania', name='Pitcairn Islands', capital='Adamstown', population=50, area=47}
+Country{continent='South America', name='Bouvet Island', capital='', population=0, area=49}
+Country{continent='Central America', name='Saint Martin', capital='Marigot', population=38002, area=54}
+Country{continent='Oceania', name='French Southern and Antarctic Lands', capital='Port-aux-Français', population=0, area=55}
+Country{continent='Europe', name='San Marino', capital='San Marino', population=33860, area=60}
+Country{continent='Europe', name='Guernsey', capital='Saint Peter Port', population=67052, area=78}
+Country{continent='Central America', name='Anguilla', capital='The Valley', population=18090, area=91}
+Country{continent='Central America', name='Montserrat', capital='Brades', population=5373, area=102}
+Country{continent='Europe', name='Jersey', capital='Saint Helier', population=101073, area=116}
+Country{continent='Australia', name='Christmas Island', capital='Flying Fish Cove', population=2205, area=135}
+Country{continent='Oceania', name='Wallis and Futuna', capital='Mata-Utu', population=15854, area=142}
+Country{continent='Central America', name='British Virgin Islands', capital='Road Town', population=30030, area=150}
+Country{continent='Europe', name='Liechtenstein', capital='Vaduz', population=38019, area=160}
+Country{continent='Oceania', name='Marshall Islands', capital='Majuro', population=58791, area=180}
+Country{continent='Central America', name='Aruba', capital='Oranjestad', population=106314, area=180}
+Country{continent='Oceania', name='American Samoa', capital='Pago Pago', population=55312, area=200}
+Country{continent='Oceania', name='Cook Islands', capital='Avarua', population=8574, area=236}
+Country{continent='North America', name='Saint Pierre and Miquelon', capital='Saint-Pierre', population=5347, area=242}
+Country{continent='Oceania', name='Niue', capital='Alofi', population=2000, area=260}
+Country{continent='Central America', name='Saint Kitts and Nevis', capital='Basseterre', population=52834, area=260}
+Country{continent='Central America', name='Cayman Islands', capital='George Town', population=64948, area=260}
+Country{continent='Asia', name='Maldives', capital='Malé', population=530953, area=300}
+Country{continent='Africa', name='Saint Helena, Ascension and Tristan da Cunha', capital='Jamestown', population=7862, area=308}
+Country{continent='Europe', name='Malta', capital='Valletta', population=502653, area=320}
+Country{continent='Central America', name='Bonaire, Saint Eustatius and Saba', capital='', population=24548, area=322}
+Country{continent='Central America', name='Grenada', capital='Saint George's', population=112003, area=340}
+Country{continent='Central America', name='Virgin Islands', capital='Charlotte Amalie', population=106631, area=350}
+Country{continent='Australia', name='Heard Island and McDonald Islands', capital='', population=0, area=372}
+Country{continent='Africa', name='Mayotte', capital='Mamoudzou', population=256518, area=374}
+Country{continent='Central America', name='Saint Vincent and the Grenadines', capital='Kingstown', population=110589, area=390}
+Country{continent='Central America', name='Barbados', capital='Bridgetown', population=287025, area=430}
+Country{continent='Central America', name='Antigua and Barbuda', capital='Saint John’s', population=97118, area=440}
+Country{continent='Central America', name='Curacao', capital='Willemstad', population=157538, area=444}
+Country{continent='Oceania', name='Palau', capital='', population=18008, area=460}
+Country{continent='Oceania', name='Northern Mariana Islands', capital='Saipan', population=57216, area=460}
+Country{continent='Africa', name='Seychelles', capital='Victoria', population=97625, area=460}
+Country{continent='Europe', name='Andorra', capital='Andorra la Vella', population=77142, area=470}
+Country{continent='Oceania', name='Guam', capital='Hagåtña', population=167294, area=540}
+Country{continent='Europe', name='Isle of Man', capital='Douglas', population=84584, area=570}
+Country{continent='Central America', name='Saint Lucia', capital='Castries', population=182790, area=620}
+Country{continent='Oceania', name='Federated States of Micronesia', capital='', population=113815, area=700}
+Country{continent='Asia', name='Singapore', capital='Singapore', population=5703569, area=719}
+Country{continent='Central America', name='Dominica', capital='Roseau', population=71808, area=750}
+Country{continent='Oceania', name='Tonga', capital='Nuku‘alofa', population=104494, area=750}
+Country{continent='Asia', name='Bahrain', capital='Manama', population=1641172, area=778}
+Country{continent='Oceania', name='Kiribati', capital='Tarawa', population=117606, area=810}
+Country{continent='Central America', name='Turks and Caicos Islands', capital='Cockburn Town', population=38191, area=950}
+Country{continent='Africa', name='Sao Tome and Principe', capital='São Tomé', population=215056, area=960}
+Country{continent='Asia', name='Hong Kong', capital='Hong Kong', population=7507400, area=1110}
+Country{continent='Central America', name='Martinique', capital='Fort-de-France', population=395000, area=1128}
+Country{continent='Europe', name='Faroe Islands', capital='Tórshavn', population=48678, area=1396}
+Country{continent='Europe', name='Åland Islands', capital='Mariehamn', population=29013, area=1580}
+Country{continent='Central America', name='Guadeloupe', capital='Basse-Terre', population=456000, area=1628}
+Country{continent='Africa', name='Comoros', capital='Moroni', population=850886, area=1861}
+Country{continent='Africa', name='Mauritius', capital='Port Louis', population=1265711, area=2040}
+Country{continent='Africa', name='Reunion', capital='Saint-Denis', population=699000, area=2512}
+Country{continent='Europe', name='Luxembourg', capital='Luxembourg', population=619896, area=2590}
+Country{continent='Oceania', name='Samoa', capital='Apia', population=197097, area=2840}
+Country{continent='South America', name='South Georgia and South Sandwich Islands', capital='King Edward Point', population=30, area=3903}
+Country{continent='Oceania', name='French Polynesia', capital='Papeete', population=279287, area=4000}
+Country{continent='Africa', name='Cape Verde', capital='Praia', population=549935, area=4030}
+Country{continent='North America', name='Bermuda', capital='Hamilton', population=63918, area=4290}
+Country{continent='Central America', name='Trinidad and Tobago', capital='Port-of-Spain', population=1394973, area=5130}
+Country{continent='Asia', name='Brunei', capital='Bandar Seri Begawan', population=433285, area=5770}
+Country{continent='Asia', name='Palestine', capital='Ramallah', population=4685306, area=6020}
+Country{continent='Central America', name='Puerto Rico', capital='San Juan', population=3193694, area=8870}
+Country{continent='Asia', name='Cyprus', capital='Nicosia', population=1198575, area=9250}
+Country{continent='Asia', name='Lebanon', capital='Beirut', population=6855713, area=10450}
+Country{continent='Europe', name='Kosovo', capital='Pristina', population=1794248, area=10887}
+Country{continent='Central America', name='Jamaica', capital='Kingston', population=2948279, area=10990}
+Country{continent='Africa', name='Gambia', capital='Banjul', population=2347706, area=11300}
+Country{continent='Asia', name='Qatar', capital='Doha', population=2832067, area=11610}
+Country{continent='South America', name='Falkland Islands', capital='Stanley', population=3198, area=12173}
+Country{continent='Oceania', name='Vanuatu', capital='Port-Vila', population=299882, area=12190}
+Country{continent='Europe', name='Montenegro', capital='Podgorica', population=622137, area=13810}
+Country{continent='Central America', name='Bahamas', capital='Nassau', population=389482, area=13880}
+Country{continent='Asia', name='East Timor', capital='Dili', population=1293119, area=14870}
+Country{continent='Africa', name='Swaziland', capital='Mbabane', population=1148130, area=17360}
+Country{continent='Asia', name='Kuwait', capital='Kuwait City', population=4207083, area=17820}
+Country{continent='Oceania', name='Fiji', capital='Suva', population=889953, area=18270}
+Country{continent='Oceania', name='New Caledonia', capital='Nouméa', population=287800, area=18580}
+Country{continent='Europe', name='Slovenia', capital='Ljubljana', population=2087946, area=20675}
+Country{continent='Central America', name='El Salvador', capital='San Salvador', population=6453553, area=21040}
+Country{continent='Asia', name='Israel', capital='Jerusalem', population=9053300, area=22070}
+Country{continent='Central America', name='Belize', capital='Belmopan', population=390353, area=22970}
+Country{continent='Africa', name='Djibouti', capital='Djibouti', population=973560, area=23200}
+Country{continent='Europe', name='North Macedonia', capital='Skopje', population=2083459, area=25710}
+Country{continent='Africa', name='Rwanda', capital='Kigali', population=12626950, area=26340}
+Country{continent='Central America', name='Haiti', capital='Port-au-Prince', population=11263077, area=27750}
+Country{continent='Africa', name='Burundi', capital='Bujumbura', population=11530580, area=27830}
+Country{continent='Africa', name='Equatorial Guinea', capital='Malabo', population=1355986, area=28050}
+Country{continent='Europe', name='Albania', capital='Tirana', population=2854191, area=28750}
+Country{continent='Oceania', name='Solomon Islands', capital='Honiara', population=669823, area=28900}
+Country{continent='Asia', name='Armenia', capital='Yerevan', population=2957731, area=29740}
+Country{continent='Africa', name='Lesotho', capital='Maseru', population=2125268, area=30360}
+Country{continent='Europe', name='Belgium', capital='Brussels', population=11484055, area=30530}
+Country{continent='Europe', name='Moldova', capital='Chisinau', population=2657637, area=33850}
+Country{continent='Asia', name='Taiwan', capital='Taipei', population=23603049, area=35980}
+Country{continent='Africa', name='Guinea-Bissau', capital='Bissau', population=1920922, area=36130}
+Country{continent='Asia', name='Bhutan', capital='Thimphu', population=763092, area=38394}
+Country{continent='Europe', name='Switzerland', capital='Bern', population=8574832, area=41290}
+Country{continent='Europe', name='Netherlands', capital='Amsterdam', population=17332850, area=41540}
+Country{continent='Europe', name='Denmark', capital='Copenhagen', population=5818553, area=42920}
+Country{continent='Europe', name='Estonia', capital='Tallinn', population=1326590, area=45340}
+Country{continent='Central America', name='Dominican Republic', capital='Santo Domingo', population=10738958, area=48670}
+Country{continent='Europe', name='Slovakia', capital='Bratislava', population=5454073, area=49030}
+Country{continent='Central America', name='Costa Rica', capital='San José', population=5047561, area=51100}
+Country{continent='Europe', name='Bosnia and Herzegovina', capital='Sarajevo', population=3301000, area=51210}
+Country{continent='Africa', name='British Indian Ocean Territory', capital='', population=0, area=54400}
+Country{continent='Europe', name='Croatia', capital='Zagreb', population=4067500, area=56590}
+Country{continent='Africa', name='Togo', capital='Lomé', population=8082366, area=56790}
+Country{continent='Europe', name='Svalbard', capital='Longyearbyen', population=2926, area=62045}
+Country{continent='Europe', name='Latvia', capital='Riga', population=1912789, area=64490}
+Country{continent='Europe', name='Lithuania', capital='Vilnius', population=2786844, area=65286}
+Country{continent='Asia', name='Sri Lanka', capital='Colombo', population=21803000, area=65610}
+Country{continent='Asia', name='Georgia', capital='Tbilisi', population=3720382, area=69700}
+Country{continent='Europe', name='Ireland', capital='Dublin', population=4941444, area=70280}
+Country{continent='Africa', name='Sierra Leone', capital='Freetown', population=7813215, area=72300}
+Country{continent='Central America', name='Panama', capital='Panama City', population=4246439, area=75420}
+Country{continent='Europe', name='Czechia', capital='Prague', population=10669709, area=78870}
+Country{continent='South America', name='French Guiana', capital='Cayenne', population=181000, area=83534}
+Country{continent='Asia', name='United Arab Emirates', capital='Abu Dhabi', population=9770529, area=83600}
+Country{continent='Europe', name='Austria', capital='Vienna', population=8877067, area=83879}
+Country{continent='Asia', name='Azerbaijan', capital='Baku', population=10023318, area=86600}
+Country{continent='Europe', name='Serbia', capital='Belgrade', population=6944975, area=88360}
+Country{continent='Asia', name='Jordan', capital='Amman', population=10101694, area=89320}
+Country{continent='Europe', name='Portugal', capital='Lisbon', population=10269417, area=92226}
+Country{continent='Europe', name='Hungary', capital='Budapest', population=9769949, area=93030}
+Country{continent='Asia', name='South Korea', capital='Seoul', population=51709098, area=100339}
+Country{continent='Europe', name='Iceland', capital='Reykjavík', population=361313, area=103000}
+Country{continent='Central America', name='Guatemala', capital='Guatemala City', population=16604026, area=108890}
+Country{continent='Central America', name='Cuba', capital='Havana', population=11333483, area=109880}
+Country{continent='Europe', name='Bulgaria', capital='Sofia', population=6975761, area=111000}
+Country{continent='Africa', name='Liberia', capital='Monrovia', population=4937374, area=111370}
+Country{continent='Central America', name='Honduras', capital='Tegucigalpa', population=9746117, area=112490}
+Country{continent='Africa', name='Benin', capital='Porto-Novo', population=11801151, area=114760}
+Country{continent='Africa', name='Eritrea', capital='Asmara', population=3497117, area=117600}
+Country{continent='Africa', name='Malawi', capital='Lilongwe', population=18628747, area=118480}
+Country{continent='Asia', name='North Korea', capital='Pyongyang', population=25666161, area=120540}
+Country{continent='Central America', name='Nicaragua', capital='Managua', population=6545502, area=130370}
+Country{continent='Europe', name='Greece', capital='Athens', population=10716322, area=131960}
+Country{continent='Asia', name='Tajikistan', capital='Dushanbe', population=9321018, area=141380}
+Country{continent='Asia', name='Nepal', capital='Kathmandu', population=28608710, area=147180}
+Country{continent='Asia', name='Bangladesh', capital='Dhaka', population=163046161, area=147630}
+Country{continent='Africa', name='Tunisia', capital='Tunis', population=11694719, area=163610}
+Country{continent='South America', name='Suriname', capital='Paramaribo', population=581363, area=163820}
+Country{continent='South America', name='Uruguay', capital='Montevideo', population=3461734, area=176220}
+Country{continent='Asia', name='Cambodia', capital='Phnom Penh', population=16486542, area=181040}
+Country{continent='Asia', name='Syria', capital='Damascus', population=17070135, area=185180}
+Country{continent='Africa', name='Senegal', capital='Dakar', population=16296364, area=196710}
+Country{continent='Asia', name='Kyrgyzstan', capital='Bishkek', population=6456900, area=199950}
+Country{continent='Europe', name='Belarus', capital='Minsk', population=9466856, area=207600}
+Country{continent='South America', name='Guyana', capital='Georgetown', population=782766, area=214970}
+Country{continent='Asia', name='Laos', capital='Vientiane', population=7169455, area=236800}
+Country{continent='Europe', name='Romania', capital='Bucharest', population=19356544, area=238400}
+Country{continent='Africa', name='Ghana', capital='Accra', population=30417856, area=238540}
+Country{continent='Africa', name='Uganda', capital='Kampala', population=44269594, area=241550}
+Country{continent='Europe', name='United Kingdom', capital='London', population=66834405, area=243610}
+Country{continent='Africa', name='Guinea', capital='Conakry', population=12771246, area=245860}
+Country{continent='South America', name='Ecuador', capital='Quito', population=17373662, area=256370}
+Country{continent='Africa', name='Western Sahara', capital='El Aaiún', population=652271, area=266000}
+Country{continent='Africa', name='Gabon', capital='Libreville', population=2172579, area=267670}
+Country{continent='Australia', name='New Zealand', capital='Wellington', population=4917000, area=267710}
+Country{continent='Africa', name='Burkina Faso', capital='Ouagadougou', population=20321378, area=274220}
+Country{continent='Asia', name='Philippines', capital='Manila', population=108116615, area=300000}
+Country{continent='Europe', name='Italy', capital='Rome', population=60297396, area=301340}
+Country{continent='Asia', name='Oman', capital='Muscat', population=4974986, area=309500}
+Country{continent='Europe', name='Poland', capital='Warsaw', population=37970874, area=312680}
+Country{continent='Africa', name='Ivory Coast', capital='Yamoussoukro', population=25716544, area=322460}
+Country{continent='Asia', name='Malaysia', capital='Kuala Lumpur', population=31949777, area=330345}
+Country{continent='Asia', name='Vietnam', capital='Hanoi', population=96462106, area=331230}
+Country{continent='Europe', name='Finland', capital='Helsinki', population=5520314, area=338450}
+Country{continent='Africa', name='Republic of the Congo', capital='Brazzaville', population=5380508, area=342000}
+Country{continent='Europe', name='Germany', capital='Berlin', population=83132799, area=357580}
+Country{continent='Asia', name='Japan', capital='Tokyo', population=126264931, area=377970}
+Country{continent='Europe', name='Norway', capital='Oslo', population=5347896, area=385203}
+Country{continent='Africa', name='Zimbabwe', capital='Harare', population=14645468, area=390760}
+Country{continent='South America', name='Paraguay', capital='Asunción', population=7044636, area=406752}
+Country{continent='Asia', name='Iraq', capital='Baghdad', population=39309783, area=435052}
+Country{continent='Africa', name='Morocco', capital='Rabat', population=36471769, area=446550}
+Country{continent='Asia', name='Uzbekistan', capital='Tashkent', population=33580650, area=447400}
+Country{continent='Europe', name='Sweden', capital='Stockholm', population=10285453, area=447430}
+Country{continent='Oceania', name='Papua New Guinea', capital='Port Moresby', population=8776109, area=462840}
+Country{continent='Africa', name='Cameroon', capital='Yaoundé', population=25876380, area=475440}
+Country{continent='Asia', name='Turkmenistan', capital='Ashgabat', population=5942089, area=488100}
+Country{continent='Europe', name='Spain', capital='Madrid', population=47076781, area=505935}
+Country{continent='Asia', name='Thailand', capital='Bangkok', population=69625582, area=513120}
+Country{continent='Asia', name='Yemen', capital='Sanaa', population=29161922, area=527970}
+Country{continent='Europe', name='France', capital='Paris', population=67059887, area=549087}
+Country{continent='Africa', name='Kenya', capital='Nairobi', population=52573973, area=580370}
+Country{continent='Africa', name='Botswana', capital='Gaborone', population=2303697, area=581730}
+Country{continent='Africa', name='Madagascar', capital='Antananarivo', population=26969307, area=587295}
+Country{continent='Europe', name='Ukraine', capital='Kiev', population=44385155, area=603550}
+Country{continent='Africa', name='Central African Republic', capital='Bangui', population=4745185, area=622980}
+Country{continent='Africa', name='Somalia', capital='Mogadishu', population=15442905, area=637660}
+Country{continent='Africa', name='South Sudan', capital='Juba', population=11062113, area=644330}
+Country{continent='Asia', name='Afghanistan', capital='Kabul', population=38041754, area=652860}
+Country{continent='Asia', name='Burma', capital='Nay Pyi Taw', population=54045420, area=676590}
+Country{continent='Africa', name='Zambia', capital='Lusaka', population=17861030, area=752610}
+Country{continent='South America', name='Chile', capital='Santiago', population=18952038, area=756700}
+Country{continent='Asia', name='Turkey', capital='Ankara', population=83429615, area=785350}
+Country{continent='Africa', name='Mozambique', capital='Maputo', population=30366036, area=786380}
+Country{continent='Asia', name='Pakistan', capital='Islamabad', population=216565318, area=796100}
+Country{continent='Africa', name='Namibia', capital='Windhoek', population=2494530, area=824290}
+Country{continent='South America', name='Venezuela', capital='Caracas', population=28515829, area=912050}
+Country{continent='Africa', name='Nigeria', capital='Abuja', population=200963599, area=923770}
+Country{continent='Africa', name='Tanzania', capital='Dodoma', population=58005463, area=947300}
+Country{continent='Africa', name='Egypt', capital='Cairo', population=100388073, area=1001450}
+Country{continent='Africa', name='Mauritania', capital='Nouakchott', population=4525696, area=1030700}
+Country{continent='South America', name='Bolivia', capital='Sucre', population=11513100, area=1098580}
+Country{continent='Africa', name='Ethiopia', capital='Addis Ababa', population=112078730, area=1104300}
+Country{continent='South America', name='Colombia', capital='Bogotá', population=50339443, area=1141749}
+Country{continent='Africa', name='South Africa', capital='Pretoria', population=58558270, area=1219090}
+Country{continent='Africa', name='Mali', capital='Bamako', population=19658031, area=1240190}
+Country{continent='Africa', name='Angola', capital='Luanda', population=31825295, area=1246700}
+Country{continent='Africa', name='Niger', capital='Niamey', population=23310715, area=1267000}
+Country{continent='Africa', name='Chad', capital='N'Djamena', population=15946876, area=1284000}
+Country{continent='South America', name='Peru', capital='Lima', population=32510453, area=1285220}
+Country{continent='Asia', name='Mongolia', capital='Ulaanbaatar', population=3225167, area=1564120}
+Country{continent='Asia', name='Iran', capital='Tehran', population=82913906, area=1745150}
+Country{continent='Africa', name='Libya', capital='Tripoli', population=6777452, area=1759540}
+Country{continent='Africa', name='Sudan', capital='Khartoum', population=42813238, area=1879358}
+Country{continent='Asia', name='Indonesia', capital='Jakarta', population=270625568, area=1913580}
+Country{continent='Central America', name='Mexico', capital='Mexico City', population=127575529, area=1964375}
+Country{continent='Asia', name='Saudi Arabia', capital='Riyadh', population=34268528, area=2149690}
+Country{continent='North America', name='Greenland', capital='Nuuk', population=56225, area=2166000}
+Country{continent='Africa', name='Democratic Republic of the Congo', capital='Kinshasa', population=86790567, area=2344860}
+Country{continent='Africa', name='Algeria', capital='Algiers', population=43053054, area=2381740}
+Country{continent='Asia', name='Kazakhstan', capital='Nursultan', population=18513930, area=2724902}
+Country{continent='South America', name='Argentina', capital='Buenos Aires', population=44938712, area=2780400}
+Country{continent='Asia', name='India', capital='New Delhi', population=1366417754, area=3287259}
+Country{continent='Australia', name='Australia', capital='Canberra', population=25364307, area=7741220}
+Country{continent='South America', name='Brazil', capital='Brasília', population=211049527, area=8515770}
+Country{continent='Asia', name='China', capital='Beijing', population=1397715000, area=9562910}
+Country{continent='North America', name='United States', capital='Washington, D.C.', population=328239523, area=9831510}
+Country{continent='North America', name='Canada', capital='Ottawa', population=37589262, area=9984670}
+Country{continent='Oceania', name='Antarctica', capital='', population=0, area=14000000}
+Country{continent='Europe', name='Russia', capital='Moscow', population=144373535, area=17098250}

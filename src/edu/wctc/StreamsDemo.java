@@ -91,6 +91,10 @@ public class StreamsDemo {
 
         reportByContinent();
 
+        Arrays.stream(stringArray)
+                .sorted()
+                .forEach(System.out::println);
+
     }
 
 
@@ -185,6 +189,7 @@ public class StreamsDemo {
         // Find all countries that start with "A"
         List<Country> startWithA = countryList.stream()
                 .filter(country -> country.getName().startsWith("A"))
+                .sorted(Comparator.comparing(Country::getName)) // sort "A" countries by name
                 .collect(Collectors.toList());
 
         printList(startWithA);
@@ -207,10 +212,11 @@ public class StreamsDemo {
     }
 
     private void reportByContinent() {
-        // Find all unique continents (no duplicates)
+        // Find all unique continents (no duplicates), sorted by name
         List<String> continents = countryList.stream()
                 .map(Country::getContinent)
                 .distinct() // collapse duplicates
+                .sorted() // use natural sort order of Strings
                 .collect(Collectors.toList());
 
         for (String continent : continents) {

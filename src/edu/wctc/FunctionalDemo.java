@@ -18,7 +18,7 @@ public class FunctionalDemo {
     public FunctionalDemo(List<Country> countryList) {
         this.countryList.addAll(countryList);
 
-        // local FM radio stations
+        // Loading a list up with doubles for local FM radio stations
         DoubleStream.of(95.7, 102.1, 89.7, 88.9, 100.7, 99.1, 94.5).forEach(doubleList::add);
 
         sorting();

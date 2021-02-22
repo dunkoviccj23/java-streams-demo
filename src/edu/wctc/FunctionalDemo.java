@@ -13,7 +13,7 @@ import java.util.stream.DoubleStream;
 public class FunctionalDemo {
     private final List<Country> countryList = new ArrayList<>();
     private final String[] stringArray = {"Milwaukee", "Dane", "Waukesha", "Brown", "Racine"};
-    private List<Double> doubleList = new ArrayList<>();
+    private final List<Double> doubleList = new ArrayList<>();
 
     public FunctionalDemo(List<Country> countryList) {
         this.countryList.addAll(countryList);
